@@ -1,0 +1,1 @@
+This project follows the guidelines laid out within The Odin Project for the "Recipes" project.
